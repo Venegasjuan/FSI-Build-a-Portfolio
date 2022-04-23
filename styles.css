@@ -1,3 +1,8 @@
 body {background-color: beige;}
 h1 {background-color: black;
-color: aliceblue;}
+color: aliceblue;
+border-style: dashed;
+border-width: 5px;
+border-radius: 8em;
+
+}
